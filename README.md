@@ -1,6 +1,6 @@
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXB4YzV5eXRhenVzeGF3cWE3NmJ2bWJ1YjZiYXBkNW52bno0cnZrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="10%" height="100%">ㅤH e l l o ㅤ w o r l d !ㅤ<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tkemw2MGNhNWdnanl0cjNyaGtpazVtcHJ5bGhyeDlpMmFtMzVkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G74LKP9zsfLInmz3H6/giphy.gif" width="10%" height="100%">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhwNmY3ZnhwbTBodjBpbWp2YW5jdDUxMnRhZm5tdHVkamlyMjF1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="100%" >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhwNmY3ZnhwbTBodjBpbWp2YW5jdDUxMnRhZm5tdHVkamlyMjF1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="50%" height="50%" >
 
 # 💫 About Me:
 👋 Hola! Soy Alexis<br>💻 Estudiante de Ingeniería en Informática y Sistemas, en camino a ser Full Stack Developer.<br>🚀 Amante del desarrollo web, la programación competitiva y siempre aprendiendo nuevas tecnologías.<br>🔐 Aficionado a la ciberseguridad y la inteligencia artificial.<br>🌱 "I thought that I could do anything"
